@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/toptapp_demo/static/css/main.b2337eee.css",
+    "main.js": "/toptapp_demo/static/js/main.baa03aa5.js",
+    "static/js/787.6a10175b.chunk.js": "/toptapp_demo/static/js/787.6a10175b.chunk.js",
+    "static/media/test_product_1.png": "/toptapp_demo/static/media/test_product_1.8ff0d24623a0fad33724.png",
+    "static/media/placeholder.png": "/toptapp_demo/static/media/placeholder.326cc79a8511b4333b79.png",
+    "index.html": "/toptapp_demo/index.html",
+    "main.b2337eee.css.map": "/toptapp_demo/static/css/main.b2337eee.css.map",
+    "main.baa03aa5.js.map": "/toptapp_demo/static/js/main.baa03aa5.js.map",
+    "787.6a10175b.chunk.js.map": "/toptapp_demo/static/js/787.6a10175b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2337eee.css",
+    "static/js/main.baa03aa5.js"
+  ]
+}
